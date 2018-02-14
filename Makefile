@@ -6,13 +6,14 @@
 #    By: droly <marvin@42.fr>                       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2015/12/03 17:07:51 by droly             #+#    #+#              #
-#    Updated: 2016/04/29 15:50:53 by droly            ###   ########.fr        #
+#    Updated: 2018/02/14 13:24:30 by droly            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = libft.a
 
 SRC = ft_memset.c				\
+      ft_qsort					\
       ft_bzero.c				\
       ft_memcpy.c				\
       ft_memccpy.c				\
